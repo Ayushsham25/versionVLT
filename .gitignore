@@ -1,0 +1,9 @@
+node_modules/
+.next/
+backend/storage/
+backend/cloud-backups/
+.env
+.DS_Store
+dist/
+build/
+coverage/
